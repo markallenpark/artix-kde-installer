@@ -4,6 +4,8 @@ Installs Artix linux using openrc from the openrc base ( or any openrc installer
 
 ## Current Install Parameters
 
+**WARNING** This installer will wipe the contents of the drive for the system it is used on!
+
 - Assumes UEFI
 - Sets up 8GiB Swap
 - Configures for OpenRC
