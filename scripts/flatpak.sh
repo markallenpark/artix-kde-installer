@@ -1,19 +1,19 @@
-flatpak install flathub org.kde.konsole
-flatpak install flathub org.kde.yakuake
-flatpak install flathub org.mozilla.firefox
-flatpak install flathub com.google.Chrome
-flatpak install flathub org.libreoffice.LibreOffice
-flatpak install flathub org.kde.kwrite
-flatpak install flathub org.kde.kate
-flatpak install flathub net.lutris.Lutris
-flatpak install flathub com.heroicgameslauncher.hgl
-flatpak install flathub org.gimp.GIMP
-flatpak install flathub org.kde.krita
-flatpak install flathub org.inkscape.Inkscape
-flatpak install flathub to.us.scrollprotocol.Profectus
-flatpak install flathub org.kde.ark
-flatpak install flathub org.kde.ktorrent
-flatpak install flathub org.kde.krdc
-flatpak install flathub org.mozilla.Thunderbird
-flatpak install flathub org.kde.kalk
-flatpak install flathub org.kde.ghostwriter
+flatpak install -y flathub org.kde.konsole
+flatpak install -y flathub org.kde.yakuake
+flatpak install -y flathub org.mozilla.firefox
+flatpak install -y flathub com.google.Chrome
+flatpak install -y flathub org.libreoffice.LibreOffice
+flatpak install -y flathub org.kde.kwrite
+flatpak install -y flathub org.kde.kate
+flatpak install -y flathub net.lutris.Lutris
+flatpak install -y flathub com.heroicgameslauncher.hgl
+flatpak install -y flathub org.gimp.GIMP
+flatpak install -y flathub org.kde.krita
+flatpak install -y flathub org.inkscape.Inkscape
+flatpak install -y flathub to.us.scrollprotocol.Profectus
+flatpak install -y flathub org.kde.ark
+flatpak install -y flathub org.kde.ktorrent
+flatpak install -y flathub org.kde.krdc
+flatpak install -y flathub org.mozilla.Thunderbird
+flatpak install -y flathub org.kde.kalk
+flatpak install -y flathub org.kde.ghostwriter
