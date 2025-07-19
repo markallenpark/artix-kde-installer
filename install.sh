@@ -9,7 +9,11 @@ echo "Getting necessary installation tools"
 pacman -Sy
 pacman -S parted
 
+##
 # Partition disks
+#
+# This is currently setup for a QEMU VM with UEFI ( to make sure UEFI works )
+# you will need to adjust this section to match your devices configuration.
 echo "Partitioning Disk"
 parted /dev/vda -- mklabel gpt
 parted /dev/vda -- mkpart ESP fat32 1MiB 1GiB
